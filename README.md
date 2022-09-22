@@ -9,4 +9,5 @@
  Reach me on:
   How to reach me: 
 (LinkedIn)www.linkedin.com/in/siddharth-jain-0a3432249
-mail:- siddharth96ajain@gmail.com
+
+# mail:- siddharth96ajain@gmail.com
